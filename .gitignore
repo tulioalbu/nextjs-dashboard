@@ -1,2 +1,23 @@
-node_modules
+# Arquivos de log
+*.log
+
+# Diretório de build
+/build
+
+# Dependências geradas pelo gerenciador de pacotes
+/node_modules
+
+# Arquivos de ambiente
 .env
+
+# Arquivos de cache
+.cache
+
+# Arquivos de configuração local
+.local
+
+# Arquivos de backup
+*.bak
+
+# Arquivos temporários
+*.tmp
