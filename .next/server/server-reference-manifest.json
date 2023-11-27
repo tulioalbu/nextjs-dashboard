@@ -1,5 +1,78 @@
 {
-  "node": {},
+  "node": {
+    "d5c057bb6999c19c23b42b80f509abfb1edcbc47": {
+      "workers": {
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "4c6b2e83e6d8edc191e0c986aa56a69d02c00f31": {
+      "workers": {
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "e699ed6c46ff9a468090bae1dac29f1c24f3c87e": {
+      "workers": {
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "b66a891ba405f7fa9853b61f2b441d0f76ab4a8d": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "532f68bb01b4b143b7f48ab93787b6f12c06f554": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/(overview)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/[id]/edit/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/customers/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftulioalbu%2FDesktop%2FEstudos%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "rsc",
+        "app/dashboard/(overview)/page": "rsc",
+        "app/dashboard/invoices/[id]/edit/page": "rsc",
+        "app/dashboard/customers/page": "rsc"
+      }
+    }
+  },
   "edge": {},
   "encryptionKey": "kWsJh8t+vWr1CT8S2ihkkvjTPaI2x8z1ESx/k73cAbM="
 }
